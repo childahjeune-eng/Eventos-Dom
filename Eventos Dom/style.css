@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(186, 255, 232);
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+#caixa {
+    padding: 15px;
+    border: 1px solid #ff0000;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+
+.destaque {
+    background-color: rgb(248, 250, 114);
+    font-weight: bold;
+}
